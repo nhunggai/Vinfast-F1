@@ -1,6 +1,6 @@
 #include <AFMotor.h>    //Adafruit Motor Shield Library. First you must download and install AFMotor library
 #include <QTRSensors.h> //Pololu QTR Sensor Library. First you must download and install QTRSensors library
-#include <Arduino.h>
+#include <Arduino.h> // THU VIEN ARDUINO
 #include "kmotor.h"
 #include <Wire.h>
 #include <SoftwareSerial.h>
